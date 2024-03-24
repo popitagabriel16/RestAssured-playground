@@ -1,0 +1,10 @@
+2024-03-24 21:35:21,976 [main] INFO  LoggerExtendTests - This is an info message
+2024-03-24 21:35:21,981 [main] WARN  LoggerExtendTests - This is a warning message
+2024-03-24 21:35:21,981 [main] ERROR LoggerExtendTests - This is an error message
+2024-03-24 21:35:23,999 [main] INFO  LoggerExtendTests - User details retrieved successfully.
+2024-03-24 21:35:24,000 [main] INFO  LoggerExtendTests - User UI URL: https://example.com/users/1
+2024-03-24 22:51:16,841 [main] INFO  LoggerExtendTests - This is an info message
+2024-03-24 22:51:16,843 [main] WARN  LoggerExtendTests - This is a warning message
+2024-03-24 22:51:16,844 [main] ERROR LoggerExtendTests - This is an error message
+2024-03-24 22:51:19,287 [main] INFO  LoggerExtendTests - User details retrieved successfully.
+2024-03-24 22:51:19,288 [main] INFO  LoggerExtendTests - User UI URL: https://example.com/users/1
